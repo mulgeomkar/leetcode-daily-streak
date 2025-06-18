@@ -14,11 +14,5 @@ To practice Data Structures and Algorithms consistently and improve problem-solv
 ## 🛠️ Languages Used
 - Java
 
-## 🧠 Topics Covered
-- Arrays
-- Sorting
-- Greedy
-- Hashing
-...
 
 
