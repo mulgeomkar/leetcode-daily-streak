@@ -3,7 +3,6 @@
 This repository contains my daily solutions to LeetCode problems in Java.
 
 
-## 📅 Daily Progress
 
 | Date       | Problem Title         | Solution File      |
 |------------|------------------------|---------------------|
