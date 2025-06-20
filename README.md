@@ -2,8 +2,6 @@
 
 This repository contains my daily solutions to LeetCode problems in Java.
 
-## 💡 Objective
-To practice Data Structures and Algorithms consistently and improve problem-solving skills.
 
 ## 📅 Daily Progress
 
